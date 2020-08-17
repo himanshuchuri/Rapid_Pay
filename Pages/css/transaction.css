@@ -1,0 +1,150 @@
+.bdy{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    background: #c4c4c4
+;
+}
+
+.button2{
+    position: absolute;
+width: 180px;
+height: 50px;
+left: 2%;
+top: 5px;
+
+background: url(../assets/logo_small.png)
+}
+
+.button3{
+    position: absolute;
+width: 80px;
+height: 50px;
+right: 1%;
+top: 5px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 40px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+
+}
+
+.button4{
+    position: absolute;
+width: 220px;
+height: 50px;
+right: 8%;
+top: 5px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 40px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+
+}
+
+
+.div1{
+    position: absolute;
+width: 100%;
+height: 60px;
+left: 0px;
+top: 0px;
+
+
+background: #000000;
+}
+
+
+
+
+.div2{
+    position:absolute;
+    width: 800px;
+    height: 650px;
+    left: 25%;
+    top: 11.5%;
+    background: #ffffff;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 8px #888888,10px 10px 8px #888888;
+}
+
+.form{
+    position: relative;
+    left:5px;
+
+}
+h1{
+    position: relative;
+    left: 20%;
+    top: 20px;
+    width: 600px;
+    height: 40px;
+    
+    font-family: Roboto;
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 47px;
+text-align: center;
+background-color: #f3ec78;
+    background-image: linear-gradient(125deg, #ec5555 5%, #f27d4c 20%, #feb846 45%, #f5a6b0 55%, #baa8d3);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.nodata{
+    left: 60%;
+    top: 250px;
+    width: max-content;
+    height: 50px;
+}
+
+.my_table{
+    position: relative;
+    top: 30px;
+    width: 660px;
+    left: 10%;
+    border-collapse: collapse;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 300;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+tr:nth-child(odd) {
+  color: #000000;
+  background-color: #FFF0F0 ;
+}
+
+.text-white{
+    text-decoration: none;
+    color: #000000;
+}
+
+
+/*.button5{
+    color: #c4302b;
+
+    background-color: transparent;
+border: none;
+}*/

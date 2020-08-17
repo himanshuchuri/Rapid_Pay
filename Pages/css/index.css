@@ -1,0 +1,151 @@
+.bdy{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background: #FFFFFF;
+}
+
+.div2{
+    position: absolute;
+width: 100%;
+left: 0%;
+height: 60%;
+top: 8%;
+background-repeat: no-repeat;
+background-size: 100%;
+background-image: url(../assets/back.jpg);
+/*background: radial-gradient(ellipse at 5% 5%, #f68954 0%, rgba(246,137,84,0) 75%),radial-gradient(ellipse at 95% 5%, #f2848d 0%, rgba(242,132,141,0) 75%),radial-gradient(ellipse at 95% 95%, #ffc890 0%, rgba(255,200,144,0) 75%),radial-gradient(ellipse at 5% 95%, #fed649 0%, rgba(254,214,73,0) 75%);*/
+
+}
+
+.logo1{
+    position: absolute;
+top: 0px;
+left:37%;
+}
+
+h1{
+    position: absolute;
+    width: max-content;
+    left: 35%;
+height: 60px;
+top: 100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 47px;
+text-align: center;
+
+color: #000000;
+}
+
+h5{
+    position: absolute;
+width: max-content;
+left: 31%;
+height: 74px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.button2{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 49%;
+top: 5px;
+
+background: url(../assets/rupee1.png)
+
+}
+
+
+.div1{
+    position: absolute;
+width: 100%;
+height: 60px;
+left: 0px;
+top: 0px;
+
+
+background: #000000;
+}
+
+.button1{
+    position: absolute;
+width: 150px;
+height: 50px;
+left: 47%;
+top: 280px;
+
+background: #C4C4C4;
+border-radius: 50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+
+.div3{
+     position: absolute;
+width: 100%;
+left: 0%;
+top: 460px;
+}
+
+.logo2{
+     position: absolute;
+    top: 70px;
+    left:27%;
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+height: 60px;
+left: 0px;
+bottom: 0px;
+
+
+background: #000000;
+}
+
+
+.fa{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+.footer_txt{
+        right: 4%;
+    color: white;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+}
